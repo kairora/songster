@@ -50,7 +50,7 @@ function initialPrompts() {
             default: 
                 connection.end()
                 process.exit()
-        }
+        } 
     })
 }
 
